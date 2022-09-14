@@ -1,0 +1,2 @@
+# zompwitrynaincydend
+co tam zomp

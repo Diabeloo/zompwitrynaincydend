@@ -2,6 +2,8 @@ body {
     background-color:#FFFF00;
     text-align: center;
     font-size:60px;
+    left:200px;
+    background-image: url(vape.gif)
 };
 
 h1{
@@ -25,3 +27,4 @@ p {
     font-size:10px;
     };
 
+  
